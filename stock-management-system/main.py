@@ -1,16 +1,17 @@
-# This is a sample Python script.
+from product import Product
+from phone import Phone
+from laptop import Laptop
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+phone1 = Phone('jscPhonev10', 500, 5, 1)
+phone1.apply_increment(0.2)
 
+laptop1 = Laptop('HPMini', 75000, 12)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+print(phone1.name)
+print(phone1.calculate_total_price())
 
+print(laptop1)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+print(Product.all)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+phone1.send_email()
