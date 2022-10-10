@@ -9,7 +9,6 @@ plist = list(phrase)
 print(phrase)
 print(plist)
 
-
 # Where the magic happens
 for i in range(4):
     plist.pop()
