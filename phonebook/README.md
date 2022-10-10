@@ -1,6 +1,6 @@
 # PHONEBOOK PROGRAM
 
-## CHALLENGE: CREATE A PHONEBOOK PROGRAM THAT CAN DO THE FOLLOWING:
+## To create a phonebook program that:
 - [ ] Load a phonebook file
 - [ ] User can create new contact, {name: number}.
 - [ ] User can search for a name or number in the phonebook file
