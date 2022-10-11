@@ -1,4 +1,9 @@
-# Phonebook Prgoram
+# Phonebook Program
+
+## ---   Meta Information   ---
+Phonebook Program.
+Written in Python.
+Developed by: Paul Ishaili C.
 
 ## To create a phonebook program that:
 
