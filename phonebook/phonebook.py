@@ -5,6 +5,7 @@
     Developed by: Paul Ishaili C.
 """
 import time
+import vls_search
 
 contact = {}
 
