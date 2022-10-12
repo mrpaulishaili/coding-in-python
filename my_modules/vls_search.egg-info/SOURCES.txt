@@ -1,0 +1,7 @@
+README.txt
+setup.py
+vls_search.py
+vls_search.egg-info/PKG-INFO
+vls_search.egg-info/SOURCES.txt
+vls_search.egg-info/dependency_links.txt
+vls_search.egg-info/top_level.txt
